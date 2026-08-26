@@ -1,0 +1,32 @@
+---
+name: Bug Report
+about: Report a crash, glitch, or bug in the modpack
+title: '[BUG] Brief description of the issue'
+labels: bug
+assignees: ''
+---
+
+Define you are on the serverpack or on the client pack
+
+## 🛑 Describe the Bug
+A clear and concise description of what the bug is.
+
+## 🔄 Steps to Reproduce
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '...'
+3. Scroll down to '...'
+4. See error
+
+## 💻 Game & Modpack Version
+* **Modpack Version:**
+* **Mod Loader & Version:**
+
+## 📄 Crash Report / Logs
+> ⚠️ **DO NOT paste long logs directly into this box!** 
+
+## 📷 Screenshots
+If applicable, add screenshots to help explain your problem (drag and drop images here).
+
+## 🛠️ Additional Context
+Add any other context about the problem here (e.g., "I added Optifine manually", "This only happens on servers").
